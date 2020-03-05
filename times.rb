@@ -1,3 +1,3 @@
-def 7.times do 
+def .times do 
   puts "Wingardium Leviosa"
  end 
