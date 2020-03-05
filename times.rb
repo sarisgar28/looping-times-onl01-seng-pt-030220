@@ -1,3 +1,3 @@
-def times do 
+def times 
   puts "Wingardium Leviosa"
  end 
